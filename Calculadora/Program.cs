@@ -1,4 +1,7 @@
-﻿
+﻿Console.WriteLine("Bienvenido a mi calculadora");
+
+
+
 int continuar = 1;
 while (continuar == 1) {
     Console.Write("Digite un número: ");
